@@ -1,3 +1,3 @@
 # materializecolors
 
-#adaptation version 1.1
+adaptation version 1.1
